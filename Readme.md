@@ -6,7 +6,7 @@
 ![alt text](image-2.png)
 ![alt text](image.png)
 
-# Tech-Stacks 
+# Tech Stacks 
 - javascript 
 - html & css
 
